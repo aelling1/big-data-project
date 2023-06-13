@@ -6,4 +6,4 @@ The project consisted of us taking the temperatures of a specific day each seaso
 3. Download .r files.
 # Usage
 To access the graphs created from this data, load each spreadsheet from each season and enters commands from the document or download .r file 
-for each season and eahc weather pattern.
+for each season and each weather pattern.
